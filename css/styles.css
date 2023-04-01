@@ -1,0 +1,105 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+.navbar {
+background-color: #2c3e50;
+}
+
+.navbar-brand {
+font-weight: 700;
+}
+
+.navbar-light .navbar-nav .nav-link {
+color: #fff;
+}
+
+.jumbotron {
+background-image: url("https://c4.wallpaperflare.com/wallpaper/591/319/758/scheme-lines-dark-white-wallpaper-preview.jpg");
+background-size: cover;
+height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+color: #fff;
+}
+
+.jumbotron h1 {
+font-size: 48px;
+font-weight: 900;
+}
+
+.jumbotron p {
+font-size: 24px;
+}
+
+.services-section {
+background-color: #f1c40f;
+padding: 60px 0;
+}
+
+.services-section h2 {
+font-size: 36px;
+font-weight: 700;
+margin-bottom: 30px;
+text-align: center;
+}
+
+.services-section .card {
+border: none;
+}
+
+.services-section .card img {
+max-width: 80px;
+margin-bottom: 20px;
+}
+
+.services-section .card h4 {
+font-weight: 700;
+margin-bottom: 15px;
+}
+
+.services-section .card p {
+font-size: 16px;
+}
+
+.team-section {
+padding: 60px 0;
+}
+
+.team-section h2 {
+font-size: 36px;
+font-weight: 700;
+margin-bottom: 30px;
+text-align: center;
+}
+
+.team-section .card {
+border: none;
+}
+
+.team-section .card img {
+border-radius: 50%;
+max-width: 150px;
+margin-bottom: 15px;
+}
+
+.team-section .card h4 {
+font-weight: 700;
+margin-bottom: 5px;
+}
+
+.team-section .card p {
+font-size: 16px;
+}
+
+.footer {
+background-color: #2c3e50;
+padding: 30px 0;
+}
+
+.footer p {
+color: #fff;
+font-size: 16px;
+margin-bottom: 0;
+}
